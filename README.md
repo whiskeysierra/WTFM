@@ -42,7 +42,7 @@ Document any known significant shortcomings with the software.
 
 ## Getting Help
 
-If you have questions, concerns, bug reports, etc., please file an issue in this repository's [Issue Tracker](issues).
+If you have questions, concerns, bug reports, etc., please file an issue in this repository's [Issue Tracker](../../issues).
 
 ## Getting Involved/Contributing
 
