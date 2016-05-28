@@ -51,6 +51,4 @@ more details, check the [contribution guidelines](CONTRIBUTING.md).
 
 ## Credits and references
 
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+- [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
