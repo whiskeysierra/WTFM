@@ -1,13 +1,15 @@
-# Contributing
+# Guidance on how to contribute
 
-## Pull requests only
+There are two primary ways to help:
+ - Using the issue tracker, and
+ - Changing the code-base.
 
-**DON'T** push to the master branch directly. Always use feature branches and let people discuss changes in pull requests.
-Pull requests should only be merged after all discussions have been concluded and at least 1 reviewer has given their 
-**approval**.
+## Using the issue tracker
 
-## Guidelines
+Use the [issue tracker](../../issues) to suggest feature requests, report bugs, and ask questions. This is also a great way to connect with the developers of the project as well as others who are interested in this solution.
 
-- **every change** needs a test
-- 100% code coverage
-- keep the current code style
+Use the issue tracker to find ways to contribute. Find a bug or a feature, mention in the issue that you will take on that effort, then follow the *Changing the code-base* guidance below.
+
+## Changing the code-base
+
+Generally speaking, you should fork this repository, make changes in your own fork, and then submit a [pull-request](../../pulls). All new code **must have associated unit tests** and **100% line and branch code coverage**.  Additionally, the code should follow any stylistic and architectural guidelines prescribed by the project. In the absence of such guidelines, **mimic the styles and patterns in the existing code-base**.
