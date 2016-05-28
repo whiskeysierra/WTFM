@@ -31,7 +31,17 @@ If specific versions of other software are required, or known not to work, call 
 
 Detailed instructions on how to install, configure, and get the project running.
 This should be frequently tested to ensure reliability. Alternatively, link to
-a separate [INSTALL](INSTALL.md) document.
+a separate [INSTALL](INSTALL.md) document. For example:
+
+Add the following dependency to your project:
+
+```xml
+<dependency>
+    <groupId>com.example</groupId>
+    <artifactId>artifact</artifactId>
+    <version>${example.version}</version>
+</dependency>
+```
 
 ## Configuration
 
