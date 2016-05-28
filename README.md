@@ -1,6 +1,6 @@
 # Project Title: Tagline
 
-![Banner](https://placehold.it/888x244?text=Banner+888×244)
+![Banner 888×244](docs/banner.png)
 
 [![Build Status](https://img.shields.io/travis/whiskeysierra/wtfm.svg)](https://travis-ci.org/whiskeysierra/wtfm)
 [![Coverage Status](https://img.shields.io/coveralls/whiskeysierra/wtfm.svg)](https://coveralls.io/r/whiskeysierra/wtfm)
