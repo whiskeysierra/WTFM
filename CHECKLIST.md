@@ -1,4 +1,4 @@
-# &#x2713; Open Source Check List
+# &#x2713; Open Source Checklist
 
 Prior to releasing a project to GitHub.com, walk through these items and ensure they are addressed.
 
