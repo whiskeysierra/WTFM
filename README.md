@@ -26,6 +26,12 @@ Magic magic = new Magic();
 magic.applyTo(yourProject);
 ```
 
+## Features
+
+-  **Important** things first
+-  Convenient [Spring Boot](http://projects.spring.io/spring-boot/) Auto Configuration
+-  Sensible defaults
+
 ## Dependencies
 
 - Java 8
@@ -33,6 +39,10 @@ magic.applyTo(yourProject);
 - e.g. Apache HTTP Client
 
 ## Installation
+
+Selectively add the following dependencies to your project:
+
+*OR*
 
 Add the following dependency to your project:
 
@@ -70,3 +80,8 @@ more details, check the [contribution guidelines](CONTRIBUTING.md).
 ## Credits and references
 
 - [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
+
+## Open Issues
+
+- list of selected issues
+- including links
