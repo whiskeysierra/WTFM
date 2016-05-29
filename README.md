@@ -80,6 +80,7 @@ more details, check the [contribution guidelines](CONTRIBUTING.md).
 ## Credits and references
 
 - [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
+- [How to Open Source at Zalando](https://github.com/zalando/zalando-howto-open-source#creating-a-readme)
 
 ## Open Issues
 
