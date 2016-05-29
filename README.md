@@ -19,19 +19,20 @@ Describe how this software can improve the lives of its audience.
 
 ## Example
 
-If the software has visual components, place a screenshot after the description; e.g.,
+Your reader is seeing this first and it's your only chance to convince him/her to keep reading. The example should be minimalistic, preferably a one-liner, 5-10 lines tops. If there is a common *Hello World* example that comparable projects use to show their approach, this is the place.
+
+```java
+Magic magic = new Magic();
+magic.applyTo(yourProject);
+```
 
 ## Dependencies
 
-Describe any dependencies that must be installed for this software to work.
-This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
-If specific versions of other software are required, or known not to work, call that out.
+- Java 8
+- Any build tool using Maven Central, or direct download
+- e.g. Apache HTTP Client
 
 ## Installation
-
-Detailed instructions on how to install, configure, and get the project running.
-This should be frequently tested to ensure reliability. Alternatively, link to
-a separate [INSTALL](INSTALL.md) document. For example:
 
 Add the following dependency to your project:
 
