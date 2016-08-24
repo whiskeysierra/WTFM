@@ -4,6 +4,7 @@
 
 [![Build Status](https://img.shields.io/travis/whiskeysierra/wtfm.svg)](https://travis-ci.org/whiskeysierra/wtfm)
 [![Coverage Status](https://img.shields.io/coveralls/whiskeysierra/wtfm.svg)](https://coveralls.io/r/whiskeysierra/wtfm)
+[![Javadoc](https://javadoc-emblem.rhcloud.com/doc/io.github.whiskeysierra/wtfm/badge.svg)](http://www.javadoc.io/doc/io.github.whiskeysierra/wtfm)
 [![Release](https://img.shields.io/github/release/whiskeysierra/wtfm.svg)](https://github.com/whiskeysierra/wtfm/releases)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.whiskeysierra/wtfm.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.whiskeysierra/wtfm)
 
