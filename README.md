@@ -33,6 +33,11 @@ magic.applyTo(yourProject);
 -  Convenient [Spring Boot](http://projects.spring.io/spring-boot/) Auto Configuration
 -  Sensible defaults
 
+## Origin
+
+- Why does it exist?
+- Compare/contrast your project with other, similar projects so the user knows how it is different from those projects.
+
 ## Dependencies
 
 - Java 8
@@ -81,7 +86,7 @@ more details, check the [contribution guidelines](CONTRIBUTING.md).
 ## Credits and references
 
 - [CFPB Open Source Project Template](https://github.com/cfpb/open-source-project-template)
-- [How to Open Source at Zalando](https://github.com/zalando/zalando-howto-open-source#creating-a-readme)
+- [How to Open Source at Zalando](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 
 ## Open Issues
 
