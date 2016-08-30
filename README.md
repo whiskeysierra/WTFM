@@ -7,6 +7,7 @@
 [![Javadoc](https://javadoc-emblem.rhcloud.com/doc/io.github.whiskeysierra/wtfm/badge.svg)](http://www.javadoc.io/doc/io.github.whiskeysierra/wtfm)
 [![Release](https://img.shields.io/github/release/whiskeysierra/wtfm.svg)](https://github.com/whiskeysierra/wtfm/releases)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.whiskeysierra/wtfm.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.whiskeysierra/wtfm)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/whiskeysierra/WTFM/master/LICENSE)
 
 Put a meaningful, short, plain-language description of what
 this project is trying to accomplish and why it matters.
