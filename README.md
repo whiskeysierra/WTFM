@@ -9,6 +9,8 @@
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.whiskeysierra/wtfm.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.whiskeysierra/wtfm)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/whiskeysierra/WTFM/master/LICENSE)
 
+> **WTFM**, abbreviation: Write The F****ing Manual. Based on the term RTFM. Used when a lack of documentation exists for a given system.
+
 Put a meaningful, short, plain-language description of what
 this project is trying to accomplish and why it matters.
 Describe the problem(s) this project solves.
